@@ -1,5 +1,3 @@
-# coin-racer
-
 ## Goal
 
 Survive as long as possible while collecting coins!
