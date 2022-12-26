@@ -15,3 +15,7 @@ You will die in the game if you hit the monsters.
 ## Score
 
 Your score will go up by one every time you collect a coin.
+
+## Screenshots
+
+![Game Photo](https://raw.githubusercontent.com/AtharvLikesToProgram/coin-racer/main/GamePhoto.jpg)
