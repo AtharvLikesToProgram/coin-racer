@@ -18,4 +18,9 @@ Your score will go up by one every time you collect a coin.
 
 ## Screenshots
 
+ps (keep in mind that the photo quality is very low)
 ![Game Photo](https://raw.githubusercontent.com/AtharvLikesToProgram/coin-racer/main/GamePhoto.jpg)
+
+## Credits
+
+I got the player character, the enemies, and the coins straight from "flaticon.com".
